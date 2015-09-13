@@ -17,7 +17,6 @@ Show any code that is needed to
 
 ```{r}
 setwd("C:/aaaaaaaaaaaaa/coursera/Data science/5.Reproducial Research/repdata-data-activity")
-
 library(plyr)
 library(lattice)
 library(ggplot2)
